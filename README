@@ -1,0 +1,7 @@
+Framework for Generic Distributed Optimization, Java implementation
+
+This handles the assimilation/validation for BOINC.
+
+This requires a JDBC driver: http://dev.mysql.com/downloads/connector/j/
+
+And fast-MD5: http://www.twmacinta.com/myjava/fast_md5.php
